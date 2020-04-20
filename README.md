@@ -1,7 +1,9 @@
 # My Unity3D examples
 
-Copyright(c) 2020, Andy Do
+Copyright(c) 2020, Andy Do.
+
 License type: MIT
+
 Contact: eaglehorn58@gmail.com, eaglehorn58@163.com
 
 ---------------------------------------------
